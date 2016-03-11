@@ -1,0 +1,41 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="git@oems.outdoorequipped.com:dev.outdoorequipped.com" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git://git@oems.outdoorequipped.com:dev.outdoorequipped.com" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="oems.outdoorequipped.com:dev.outdoorequipped.com" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="yuri@oems.outdoorequipped.com:/var/www/oems.outdoorequipped.com/laravel" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Yuberries@bitbucket.org/pockiemen/blackthorne.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="yuberries" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://yuri:8fakncHmgYBIn@enlightenedexpressionsserver.com/bonobo/Feedcake.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/yuberries/Amazon-MWS-PHP-CL.git" />
+          <option name="userName" value="yuberries" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\xampp\htdocs" />
+  </component>
+</application>
