@@ -4,6 +4,9 @@
       <webServer id="2831d22e-dfc5-44b2-b668-0c6499cfa37e" name="OEMag" url="http://oemag.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="bee1f3f2-4191-47aa-955d-faf29a2221b8" name="nodejs:3333" url="http://localhost:3333">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
