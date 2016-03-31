@@ -7,6 +7,9 @@
       <webServer id="bee1f3f2-4191-47aa-955d-faf29a2221b8" name="nodejs:3333" url="http://localhost:3333">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6ac8a0b6-7150-4b1b-b486-3da960f04f30" name="local:4000" url="http://localhost:4000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
