@@ -10,6 +10,9 @@
       <webServer id="6ac8a0b6-7150-4b1b-b486-3da960f04f30" name="local:4000" url="http://localhost:4000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b85da5f7-71f1-4d11-b2b7-a172aec245f3" name="local:3000" url="http://localhost:3000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
