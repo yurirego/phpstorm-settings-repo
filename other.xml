@@ -82,7 +82,7 @@
   </component>
   <component name="PhpRefactoringSettings">
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
-    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
