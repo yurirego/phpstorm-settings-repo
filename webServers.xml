@@ -16,6 +16,9 @@
       <webServer id="4a5bd08a-db6a-444d-8f66-a943207dd8de" name="josh.local" url="http://josh.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ba7d0e43-c871-4dd9-8e87-e8d7b4d9d75f" name="oems.local" url="http://oems.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
