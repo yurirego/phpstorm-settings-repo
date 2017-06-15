@@ -34,6 +34,10 @@
           <option name="url" value="http://github.com/yuberries/Amazon-MWS-PHP-CL.git" />
           <option name="userName" value="yuberries" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git-codecommit.us-east-1.amazonaws.com" />
+          <option name="userName" value="Yuri-at-494343012176" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\xampp\htdocs" />
