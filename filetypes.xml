@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
-      <mapping ext="config" type="YAML" />
     </extensionMap>
   </component>
 </application>
